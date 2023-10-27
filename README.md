@@ -1,6 +1,8 @@
 # ExzPorto
 Halaman github ini merupakan portofolio saya (Ezra Valenne Tofa).
 
+# Produk
 
-# ExzBot-v2.apk
-ExzBot-V2.apk adalah aplikasi game yang berisi chatbot yang terhubung dengan API Openai. Gunakan gratis dengan mendownload file apknya~
+
+# Gallery
+![image](https://github.com/exzgit/ExzPorto/assets/142492729/5e9e4a23-cd8b-4862-bf9e-93a7ef1a1c3e)
