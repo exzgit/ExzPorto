@@ -1,6 +1,5 @@
 # Exz-Portofolio
-Perkenalkan nama saya Ezra Valenne Tofa. Saya berasal dari Sidoarjo, Jawa Timur, Indonesia. Saya lahir pada Tanggal 1 September 2006 dan usia saya sekarang adalah 17th.
-Saya mempelajari tentang game developer sejak 14th.
+Halo, perkenalkan, nama saya adalah Ezra Valenne Tofa. Saya lahir di kota Sidoarjo, Jawa Timur, Indonesia, pada tanggal 1 September 2006. Saat ini, saya berusia 17 tahun dan sangat tertarik pada dunia game development. Minat dan penelitian saya dalam game development dimulai sejak saya berusia 14 tahun. Saya telah mengejar keahlian dalam game development dan frontend web development, dan saya terus mengembangkan kemampuan-kemampuan tersebut. Saya bersemangat untuk terus belajar dan berkontribusi dalam dunia game development.
 
 <br>
 <br>
