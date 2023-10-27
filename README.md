@@ -16,5 +16,8 @@ Halaman github ini merupakan portofolio saya (Ezra Valenne Tofa).
   <img src="https://github.com/exzgit/ExzPorto/assets/142492729/4ecd72b7-9e0b-4640-a283-04ac4a12cac3" alt="ExzBot-V2-GPT.apk" style="width:100px; height:auto;">
 </div>
 
+<br>
+<br>
+
 # Support
 <a href="https://ko-fi.com/ezzcsm">Support Me</a>
