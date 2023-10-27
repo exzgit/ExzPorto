@@ -25,8 +25,8 @@ Saya mempelajari tentang game developer sejak 14th.
   <img src="https://github.com/exzgit/ExzPorto/assets/142492729/4bd244c5-04bb-4e60-a24b-29b1e7ef9e16" style="width:50px; height:50px;">
   <img src="https://github.com/exzgit/ExzPorto/assets/142492729/56c79f63-5afb-41ab-ba88-2e06b8b89f0a" style="width:50px; height:50px;">
   <img src="https://github.com/exzgit/ExzPorto/assets/142492729/0f0257e4-8799-4cf3-97a9-bb3a2e1f339e" style="width:50px; height:50px;">
-  <img src="https://github.com/exzgit/ExzPorto/assets/142492729/fe969cde-d290-4435-af4e-2933bb56ef0b" style="width:50px; height:50px;">
-  <img src="https://github.com/exzgit/ExzPorto/assets/142492729/441de45f-ccbd-4b02-a6da-37f2a4ea0d37" style="width:50px; height:50px;">
+  <img src="https://github.com/exzgit/ExzPorto/assets/142492729/afd323dd-11fc-46d8-8130-d32371fa94ac" style="width:50px; height:50px;">
+  <img src="https://github.com/exzgit/ExzPorto/assets/142492729/ef7bc366-d866-4516-a674-cb2f60eaaa3c" style="width:50px; height:50px;">
 </div>
 
 
