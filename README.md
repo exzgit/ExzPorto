@@ -5,7 +5,7 @@ Halaman github ini merupakan portofolio saya (Ezra Valenne Tofa).
 <br>
 
 # Produk
-- ExzBot-v2.apk ~ <a href="Exz
+- ExzBot-v2.apk ~ <a href="https://github.com/exzgit/ExzPorto/blob/main/ExzBot-v2.apk" download>
 
 <br>
 <br>
